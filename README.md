@@ -15,3 +15,6 @@ Tutorial 12 - Buttons : http://bit.ly/1i5LuE5<br />
 Tutorial 13 - Button Groups	: http://bit.ly/1UW0d6r<br />
 Tutorial 14 - Checkbox Buttons : http://bit.ly/1ivVeZ9<br />
 Tutorial 15 - Radio Buttons : http://bit.ly/1ivVQ0E<br />
+Tutorial 16 - Button Dropdown : http://bit.ly/1NAYsWa<br />
+Tutorial 17 - Input Groups : http://bit.ly/1UZDWoa<br />
+Tutorial 18 - Jumbotron : http://bit.ly/1LBDd2c<br />
