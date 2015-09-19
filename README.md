@@ -18,3 +18,6 @@ Tutorial 15 - Radio Buttons : http://bit.ly/1ivVQ0E<br />
 Tutorial 16 - Button Dropdown : http://bit.ly/1NAYsWa<br />
 Tutorial 17 - Input Groups : http://bit.ly/1UZDWoa<br />
 Tutorial 18 - Jumbotron : http://bit.ly/1LBDd2c<br />
+Tutorial 19 - Labels : http://bit.ly/1KX31eN<br />
+Tutorial 20 - Alerts : http://bit.ly/1KX34ar<br />
+Tutorial 21 - Cards : http://bit.ly/1NJfV0s<br />
