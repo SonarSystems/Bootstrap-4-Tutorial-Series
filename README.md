@@ -21,3 +21,6 @@ Tutorial 18 - Jumbotron : http://bit.ly/1LBDd2c<br />
 Tutorial 19 - Labels : http://bit.ly/1KX31eN<br />
 Tutorial 20 - Alerts : http://bit.ly/1KX34ar<br />
 Tutorial 21 - Cards : http://bit.ly/1NJfV0s<br />
+Tutorial 22 - More Card Content Types	: http://bit.ly/1gJed0j<br />
+Tutorial 23 - Card Text Alignment	: http://bit.ly/1j5Dvri<br />
+Tutorial 24 - Cards Header & Footer : http://bit.ly/1JmCnV9<br />
