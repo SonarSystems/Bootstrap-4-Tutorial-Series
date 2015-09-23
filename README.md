@@ -24,3 +24,6 @@ Tutorial 21 - Cards : http://bit.ly/1NJfV0s<br />
 Tutorial 22 - More Card Content Types	: http://bit.ly/1gJed0j<br />
 Tutorial 23 - Card Text Alignment	: http://bit.ly/1j5Dvri<br />
 Tutorial 24 - Cards Header & Footer : http://bit.ly/1JmCnV9<br />
+Tutorial 25 - Card Image Caps : http://bit.ly/1LNrwFJ<br />
+Tutorial 26 - Card Image Overlay : http://bit.ly/1NSJbSh<br />
+Tutorial 27 - Inverting Cards : http://bit.ly/1QxKLXi<br />
