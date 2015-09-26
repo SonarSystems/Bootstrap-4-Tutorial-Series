@@ -27,3 +27,6 @@ Tutorial 24 - Cards Header & Footer : http://bit.ly/1JmCnV9<br />
 Tutorial 25 - Card Image Caps : http://bit.ly/1LNrwFJ<br />
 Tutorial 26 - Card Image Overlay : http://bit.ly/1NSJbSh<br />
 Tutorial 27 - Inverting Cards : http://bit.ly/1QxKLXi<br />
+Tutorial 28 - Card Background Varients : http://bit.ly/1PEsZBM<br />
+Tutorial 29 - Card Groups : http://bit.ly/1NSRBHT<br />
+Tutorial 30 - Card Decks : http://bit.ly/1QEv4Ok<br />  
