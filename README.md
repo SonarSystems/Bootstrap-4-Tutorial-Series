@@ -30,3 +30,6 @@ Tutorial 27 - Inverting Cards : http://bit.ly/1QxKLXi<br />
 Tutorial 28 - Card Background Varients : http://bit.ly/1PEsZBM<br />
 Tutorial 29 - Card Groups : http://bit.ly/1NSRBHT<br />
 Tutorial 30 - Card Decks : http://bit.ly/1QEv4Ok<br />  
+Tutorial 31 - Card Columns : http://bit.ly/1iGLfzn<br />
+Tutorial 32 - Base Nav : http://bit.ly/1MWq3CV<br />
+Tutorial 33 - Nav Tabs & Pills : http://bit.ly/1KOWVI7<br />
