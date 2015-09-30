@@ -33,3 +33,6 @@ Tutorial 30 - Card Decks : http://bit.ly/1QEv4Ok<br />
 Tutorial 31 - Card Columns : http://bit.ly/1iGLfzn<br />
 Tutorial 32 - Base Nav : http://bit.ly/1MWq3CV<br />
 Tutorial 33 - Nav Tabs & Pills : http://bit.ly/1KOWVI7<br />
+Tutorial 34 - Nav Dropdowns : http://bit.ly/1FH68oU<br />
+Tutorial 35 - Nav Tab Panes : http://bit.ly/1OFlGMB<br />
+Tutorial 36 - Navbar : http://bit.ly/1MZC3DJ<br />
