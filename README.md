@@ -36,3 +36,6 @@ Tutorial 33 - Nav Tabs & Pills : http://bit.ly/1KOWVI7<br />
 Tutorial 34 - Nav Dropdowns : http://bit.ly/1FH68oU<br />
 Tutorial 35 - Nav Tab Panes : http://bit.ly/1OFlGMB<br />
 Tutorial 36 - Navbar : http://bit.ly/1MZC3DJ<br />
+Tutorial 37 - Navbar Color Schemes : http://bit.ly/1LRgljP<br />
+Tutorial 38 - Navbar Placement : http://bit.ly/1KSXaBS<br />
+Tutorial 39 - Navbar Collapsible Content : http://bit.ly/1j1Rj6o<br />
