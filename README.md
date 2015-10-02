@@ -39,3 +39,6 @@ Tutorial 36 - Navbar : http://bit.ly/1MZC3DJ<br />
 Tutorial 37 - Navbar Color Schemes : http://bit.ly/1LRgljP<br />
 Tutorial 38 - Navbar Placement : http://bit.ly/1KSXaBS<br />
 Tutorial 39 - Navbar Collapsible Content : http://bit.ly/1j1Rj6o<br />
+Tutorial 40 - Responsive Navbar	: http://bit.ly/1Pa7VVD<br />
+Tutorial 41 - Breadcrumb : http://bit.ly/1FNl9p2<br />
+Tutorial 42 - Pagination : http://bit.ly/1JKPbF2<br />
