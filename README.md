@@ -42,3 +42,6 @@ Tutorial 39 - Navbar Collapsible Content : http://bit.ly/1j1Rj6o<br />
 Tutorial 40 - Responsive Navbar	: http://bit.ly/1Pa7VVD<br />
 Tutorial 41 - Breadcrumb : http://bit.ly/1FNl9p2<br />
 Tutorial 42 - Pagination : http://bit.ly/1JKPbF2<br />
+Tutorial 43 - Pager : http://bit.ly/1GvAuG1<br />
+Tutorial 44 - Progress : http://bit.ly/1OkuHek<br />
+Tutorial 45 - List Groups : http://bit.ly/1jNjV3j<br />
