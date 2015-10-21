@@ -46,3 +46,8 @@ Tutorial 43 - Pager : http://bit.ly/1GvAuG1<br />
 Tutorial 44 - Progress : http://bit.ly/1OkuHek<br />
 Tutorial 45 - List Groups : http://bit.ly/1jNjV3j<br />
 Tutorial 46 - Advanced List Groups : http://bit.ly/1Pk09Zu<br />
+Tutorial 47 - Modals : http://bit.ly/1M6PATX<br />
+Tutorial 48 - Tooltips : http://bit.ly/1MDBUQE<br />
+Tutorial 49 - Popovers : http://bit.ly/1hSsTuI<br />
+Tutorial 50 - Collapse : http://bit.ly/1M6PADl<br />
+Tutorial 51 - Accordion Collapse : http://bit.ly/1hSt0q6<br />
