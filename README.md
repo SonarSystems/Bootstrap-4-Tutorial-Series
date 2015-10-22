@@ -51,3 +51,5 @@ Tutorial 48 - Tooltips : http://bit.ly/1MDBUQE<br />
 Tutorial 49 - Popovers : http://bit.ly/1hSsTuI<br />
 Tutorial 50 - Collapse : http://bit.ly/1M6PADl<br />
 Tutorial 51 - Accordion Collapse : http://bit.ly/1hSt0q6<br />
+Tutorial 52 - Carousel : http://bit.ly/1QYA3K9<br />
+Tutorial 53 - Utility Classes : http://bit.ly/1QYA3K9<br />
